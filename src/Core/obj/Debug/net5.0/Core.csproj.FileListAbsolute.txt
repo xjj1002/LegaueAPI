@@ -1,0 +1,12 @@
+C:\LeagueProject\src\Core\bin\Debug\net5.0\Core.deps.json
+C:\LeagueProject\src\Core\bin\Debug\net5.0\Core.dll
+C:\LeagueProject\src\Core\bin\Debug\net5.0\ref\Core.dll
+C:\LeagueProject\src\Core\bin\Debug\net5.0\Core.pdb
+C:\LeagueProject\src\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+C:\LeagueProject\src\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeagueProject\src\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\LeagueProject\src\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\LeagueProject\src\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\LeagueProject\src\Core\obj\Debug\net5.0\Core.dll
+C:\LeagueProject\src\Core\obj\Debug\net5.0\ref\Core.dll
+C:\LeagueProject\src\Core\obj\Debug\net5.0\Core.pdb
